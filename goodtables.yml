@@ -9,3 +9,4 @@ settings:
     - duplicate-row
   skip_checks:
     - unique-constraint
+    - missing-value
